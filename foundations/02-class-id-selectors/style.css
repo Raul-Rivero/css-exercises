@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+}
+
+.simple-class{
+    background-color: pink;
+}
+
+.cooler-class{
+    background-color: rgb(203, 129, 154);
+    font-size: xx-large;
+}
+
+#first_id{
+    font-size: xx-large;
+    color: blue;
+}
+
+#second_id{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: large;
+}
